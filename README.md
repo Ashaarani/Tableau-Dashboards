@@ -1,32 +1,15 @@
-# Logistics and Transportation Dashboard
+# Tableau Dashboards Collection
 
-This repository contains a Tableau dashboard designed to provide insights into logistics and transportation performance across various metrics. The dashboard includes visualizations that track order status, inventory to sales trends, loading times, damaged items, and delivery performance by location and shipment mode. This project demonstrates the use of data visualization techniques to analyze and communicate key metrics in a clear and actionable format.
+This repository contains a collection of Tableau dashboards designed to provide insights across various domains and datasets. Each dashboard showcases different data visualization techniques, helping users analyze, interpret, and make data-driven decisions. This collection is intended for data analysts, business intelligence professionals, and anyone interested in data storytelling through visualizations.
 
 ## Dashboard Overview
 
-### Key Metrics and Visualizations
+The following dashboards are included in this repository:
 
-- **Total Orders and Delivery Status**
-  - **Donut Chart**: Shows the total number of orders, divided by status categories: Delivered, In Progress, and Not Delivered.
-  - **Delivery Status Summary**: Summarizes the count of same-day deliveries, next-day deliveries, and deliveries taking more than 2 days.
+1. **Customer Analysis Dashboard**
+   - Provides insights into customer revenue and sales distribution by time, geography, age group, region, and gender.
+   - Visualizations include: Total Revenue, Month-Wise Revenue, Revenue per State, Age-Wise Sales Analysis, and more.
 
-- **Monthly Delivery Rate**
-  - **Bar Chart**: Displays the monthly delivery completion rate as a percentage, highlighting fluctuations in delivery efficiency over the year.
-
-- **Inventory to Sales Trend**
-  - **Line Chart**: Compares inventory levels to sales across months, showing trends and peaks that may indicate seasonal demand or supply chain delays.
-
-- **Damaged Items by Shipment Mode and Category**
-  - **Bar Chart**: Breaks down the count of damaged items by shipment mode and item category, helping to identify areas with high damage rates.
-
-- **Loading Time vs. Weight**
-  - **Bar and Line Combo Chart**: Compares loading times to shipment weights, providing insights into the correlation between loading efficiency and shipment weight.
-
-- **Delivery by Location**
-  - **Map**: Geographic visualization showing the number of orders delivered in each state, which helps to analyze regional distribution and demand patterns.
-
-## Features
-
-- **Interactive Filters**: Filter by shipment mode and categories in the "Damaged Items by Shipment Mode and Category" chart.
-- **Dynamic Legends**: Legends for different charts, such as loading time vs. weight, to distinguish between categories visually.
-- **Responsive Design**: The layout of the dashboard is optimized for easy interpretation, with clearly labeled sections for each key metric.
+2. **Logistics and Transportation Dashboard**
+   - Analyzes logistics performance metrics, including order status, shipment volumes, transportation distances, and damaged items.
+   - Visualizations include: Total Orders, Month-Wise Shipping, Damaged Items by Shipment Mode, and Revenue by Location.
