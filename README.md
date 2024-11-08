@@ -13,3 +13,7 @@ The following dashboards are included in this repository:
 2. **Logistics and Transportation Dashboard**
    - Analyzes logistics performance metrics, including order status, shipment volumes, transportation distances, and damaged items.
    - Visualizations include: Total Orders, Month-Wise Shipping, Damaged Items by Shipment Mode, and Revenue by Location.
+  
+3. **HR Dashboard**
+   - HR Dashboard provides insights into employee demographics, salary trends, and departmental metrics.
+   -  It highlights staff growth, gender-based age distribution, highest-paying roles, qualifications' impact on salaries, and leave balances across departments.
